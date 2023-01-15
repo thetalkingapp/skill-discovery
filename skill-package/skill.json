@@ -1,0 +1,35 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "uri": "...scrubbed..."
+        },
+        "regions": {
+          "EU": {
+            "endpoint": {
+              "uri": "...scrubbed..."
+            }
+          },
+          "NA": {
+            "endpoint": {
+              "uri": "...scrubbed..."
+            }
+          },
+          "FE": {
+            "endpoint": {
+              "uri": "...scrubbed..."
+            }
+          }
+        }
+      }
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "discovery-fun"
+        }
+      }
+    }
+  }
+}
